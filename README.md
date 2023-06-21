@@ -1,4 +1,4 @@
-# _DATAEDU
+# _DATAEDU - 개발부서 인턴 송현준
 ICT인턴쉽 230301 ~ 230630
 
 [2023-1] Project Folder
