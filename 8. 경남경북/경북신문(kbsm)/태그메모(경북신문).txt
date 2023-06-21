@@ -1,0 +1,23 @@
+/html/body/div[2]/header/div[2]/div[3]/div[1]/nav/ul/li[2]/div/div/div/div/div[2]/ul/li[1]/a	(대구)
+/html/body/div[2]/header/div[2]/div[3]/div[1]/nav/ul/li[2]/div/div/div/div/div[2]/ul/li[2]/a	(경북도청)
+
+/html/body/div[2]/header/div[2]/div[3]/div[1]/nav/ul/li[2]/div/div/div/div/div[2]/ul/li[6]/a	(안동)
+/html/body/div[2]/header/div[2]/div[3]/div[1]/nav/ul/li[2]/div/div/div/div/div[2]/ul/li[25]/a	(울릉/독도) -> 까지
+
+/html/body/div[2]/header/div[2]/div[3]/div[1]/nav/ul/li[2]/div/div/div/div/div[2]/ul/li[26]/a	(전국) -> 제외
+
+
+
+
+/html/body/div[2]/div[4]/div/section/div/div[1]/div[2]/a[2]	버튼1
+/html/body/div[2]/div[4]/div/section/div/div[1]/div[2]/a[3]	버튼2
+
+/html/body/div[2]/div[4]/div/section/div/div[1]/div[2]/a[11]	버튼10
+
+
+
+
+/html/body/div[2]/div[4]/div/section/div/div[1]/div[1]/ul/li[1]/a/div[2]/div[1]/strong	(지역뉴스 메인페이지 제목)
+/html/body/div[2]/div[4]/div/section/div/div[1]/div[1]/ul/li[2]/a/div[2]/div[1]/strong
+
+/html/body/div[2]/div[3]/div[4]/div/section[1]/div/div/div[1]/div[2]/h2
